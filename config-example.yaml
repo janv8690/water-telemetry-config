@@ -5,4 +5,3 @@ retry_limit: 5
 log_level: info
 
 # temporary test key used during workshop demo
-api_key: GRID-2026-AQUATECH
